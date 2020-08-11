@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Codestrap adalah sebuah platform untuk membangun sistem informasi yang telah disesuaikan dengan karakteristik user di Indonesia.
 
